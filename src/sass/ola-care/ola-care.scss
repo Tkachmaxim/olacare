@@ -1,0 +1,59 @@
+.why__ola {
+font-family: var(--font-family);
+}
+
+.why__ola__title {
+    text-align: center;
+    color: #3b4394;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.why__ola__title__h2 {
+text-align: center;
+color: #822080;
+}
+
+
+.skin__about {
+    padding-top: 30px;
+        background-color: #822080;
+            font-family: var(--font-family);
+    text-align: center;
+    color: #fff;
+}
+
+.skin__about > .container > p {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 26px;
+}
+
+
+.OlaCare__benefits {
+    background-color: #e2e2e1;
+
+    h2 {
+        color: #822080;
+        text-align: center;
+        font-size: 48px;
+    }
+
+    ul {
+        list-style: none;
+    }
+}
+
+.OlaCare__benefits__item::before {
+position: absolute;
+left: 10px;
+content: url('../images/checkmark.svg');
+}
+
+.OlaCare__benefits__item {
+    margin-top: 20px;
+    font-size: 24px;
+span {
+    font-weight: 600;
+}
+}

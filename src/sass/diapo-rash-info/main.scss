@@ -1,0 +1,32 @@
+.main__title {
+    text-align: center;
+    color: #3b4394;
+}
+
+.main_desribe{
+    margin-top: 20px;
+
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.1;
+    color: #822080;
+}
+
+.main__list__rash {
+list-style: none;
+font-weight: 600;
+font-size: 30px;
+}
+
+.diaporash__factors {
+    background-color: #e3e3e2;
+}
+
+.main__rash::before{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    content: url('../images/baby-svgrepo-com.svg');
+    left: 15px;
+}
+
