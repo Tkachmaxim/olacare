@@ -1,0 +1,35 @@
+.look__after {
+    font-family: var(--font-family);
+}
+
+.look__after__title {
+    margin: 0px;
+    color: var(--title-color);
+    text-align: center;
+}
+
+.look__after__titleh2 {
+    color: var(--titleh2-color);
+    margin: 0px;
+
+
+}
+
+
+.look__after__p {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+
+.look__after__text {
+    margin-top:40px;
+    list-style: none;
+    padding-left: 0px;
+
+    li {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+}
+

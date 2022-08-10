@@ -4,14 +4,15 @@ font-family: var(--font-family);
 
 .why__ola__title {
     text-align: center;
-    color: #3b4394;
+    color: var(--title-color);
     padding-top: 30px;
     padding-bottom: 30px;
 }
 
 .why__ola__title__h2 {
 text-align: center;
-color: #822080;
+margin: 0px;
+color: var(--titleh2-color);
 }
 
 
